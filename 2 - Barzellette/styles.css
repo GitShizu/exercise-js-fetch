@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body {
+    padding: 2rem;
+    background-color: rgb(243, 243, 243);
+}
+#input{
+    margin: 2rem 0;
+}
+#container {
+    display: grid;
+    gap: 2rem;
+}
+
+li {
+    padding: .65rem;
+}
+
+ul {
+    background-color: rgb(173, 205, 216);
+}
